@@ -1,0 +1,32 @@
+{
+  "name": "kaist-ua-e-approval",
+  "version": "1.0.0",
+  "description": "KAIST 학부 총학생회 전자 결재 시스템",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start specified\" && exit 1",
+    "prestart": "echo \"Error: no prestart specified\" && exit 1",
+    "poststart": "echo \"Error: no poststart specified\" && exit 1",
+    "stop": "echo \"Error: no stop specified\" && exit 1",
+    "prestop": "echo \"Error: no prestop specified\" && exit 1",
+    "poststop": "echo \"Error: no poststop specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaistusc/kaist-ua-e-approval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaistusc/kaist-ua-e-approval/issues"
+  },
+  "homepage": "https://github.com/kaistusc/kaist-ua-e-approval#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
