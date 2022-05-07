@@ -1,0 +1,5 @@
+# git
+.git/
+
+# npm
+node_modules/
